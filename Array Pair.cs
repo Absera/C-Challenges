@@ -1,4 +1,11 @@
-﻿using System;
+// This code takes an array or list of integers and group them as pair
+// sample input = [1, 1, 3, 4, 3, 1, 5, 5, 5, 5, 6, 4 ]
+// sample output = item  count  pairs
+//                  1       3     1
+//                  3       2     1
+//                  5       4     2
+
+using System;
 using System.Collections.Generic;
 
 namespace First
